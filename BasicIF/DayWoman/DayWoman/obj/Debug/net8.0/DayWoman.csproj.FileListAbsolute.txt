@@ -1,0 +1,15 @@
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\bin\Debug\net8.0\DayWoman.exe
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\bin\Debug\net8.0\DayWoman.deps.json
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\bin\Debug\net8.0\DayWoman.runtimeconfig.json
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\bin\Debug\net8.0\DayWoman.dll
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\bin\Debug\net8.0\DayWoman.pdb
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.AssemblyInfoInputs.cache
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.AssemblyInfo.cs
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.csproj.CoreCompileInputs.cache
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.sourcelink.json
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.dll
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\refint\DayWoman.dll
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.pdb
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\DayWoman.genruntimeconfig.cache
+C:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\DayWoman\DayWoman\obj\Debug\net8.0\ref\DayWoman.dll
