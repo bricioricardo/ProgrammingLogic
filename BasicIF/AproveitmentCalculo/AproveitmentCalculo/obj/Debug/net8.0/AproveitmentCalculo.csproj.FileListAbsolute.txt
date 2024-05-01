@@ -1,0 +1,15 @@
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\bin\Debug\net8.0\AproveitmentCalculo.exe
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\bin\Debug\net8.0\AproveitmentCalculo.deps.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\bin\Debug\net8.0\AproveitmentCalculo.runtimeconfig.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\bin\Debug\net8.0\AproveitmentCalculo.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\bin\Debug\net8.0\AproveitmentCalculo.pdb
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.AssemblyInfoInputs.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.AssemblyInfo.cs
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.csproj.CoreCompileInputs.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.sourcelink.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\refint\AproveitmentCalculo.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.pdb
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\AproveitmentCalculo.genruntimeconfig.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\AproveitmentCalculo\AproveitmentCalculo\obj\Debug\net8.0\ref\AproveitmentCalculo.dll
