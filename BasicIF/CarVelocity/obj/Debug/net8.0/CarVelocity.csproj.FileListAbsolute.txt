@@ -1,0 +1,15 @@
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\bin\Debug\net8.0\CarVelocity.exe
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\bin\Debug\net8.0\CarVelocity.deps.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\bin\Debug\net8.0\CarVelocity.runtimeconfig.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\bin\Debug\net8.0\CarVelocity.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\bin\Debug\net8.0\CarVelocity.pdb
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.AssemblyInfoInputs.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.AssemblyInfo.cs
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.csproj.CoreCompileInputs.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.sourcelink.json
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\refint\CarVelocity.dll
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.pdb
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\CarVelocity.genruntimeconfig.cache
+c:\Users\brici\soldiersgit\ProgrammingLogic\BasicIF\CarVelocity\obj\Debug\net8.0\ref\CarVelocity.dll
